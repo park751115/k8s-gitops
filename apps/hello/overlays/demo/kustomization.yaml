@@ -5,4 +5,4 @@ resources:
 
 images:
   - name: docker.io/xerxes751115/test
-    newTag: build-9
+    newTag: build-10
