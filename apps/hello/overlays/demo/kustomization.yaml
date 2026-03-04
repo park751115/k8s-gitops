@@ -1,0 +1,8 @@
+namespace: demo
+
+resources:
+  - ../../base
+
+images:
+  - name: docker.io/xerxes751115/test
+    newTag: build-9
